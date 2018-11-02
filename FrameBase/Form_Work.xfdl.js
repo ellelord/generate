@@ -20,7 +20,10 @@
 
             
             // UI Components Initialize
-
+            obj = new Button("Button00","58","46","120","50",null,null,null,null,null,null,this);
+            obj.set_taborder("0");
+            obj.set_text("Button00");
+            this.addChild(obj.name, obj);
 
             // Layout Functions
             //-- Default Layout : this
