@@ -20,7 +20,7 @@
 
             
             // UI Components Initialize
-            obj = new Button("Button00","30","40","120","50",null,null,null,null,null,null,this);
+            obj = new Button("Button00","30","30","120","50",null,null,null,null,null,null,this);
             obj.set_taborder("0");
             obj.set_text("Button00");
             this.addChild(obj.name, obj);
