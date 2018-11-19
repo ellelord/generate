@@ -25,7 +25,7 @@
             obj.set_text("Button00");
             this.addChild(obj.name, obj);
 
-            obj = new Button("Button01","120","160","120","50",null,null,null,null,null,null,this);
+            obj = new Button("Button01","110","115","120","50",null,null,null,null,null,null,this);
             obj.set_taborder("1");
             obj.set_text("Button01");
             this.addChild(obj.name, obj);
